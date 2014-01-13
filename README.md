@@ -2,7 +2,7 @@
 
 ### V 0.0.2 ( January 13, 2013 ) 
 
-*Html5Shim and Media Query Fallback for IE9 Added [ Thanks to Sabuj Kundu ] 
+* Html5Shim and Media Query Fallback for IE9 Added [ Thanks to Sabuj Kundu ] 
 
 ## Why? 
 

@@ -33,6 +33,15 @@ As you already know its a combination of [html5-boilerlate](http://html5boilerpl
 * [`twitter-card`] (https://dev.twitter.com/docs/cards) Twitter card.
 * [`Google Analytis`] (https://www.google.com/analytics/) The Great Big Analytical Stat for your site. 
 
+## Production Rediness 
+
+As its for Development, All the Stylesheet and Scripts of Bootstrap are included as non-minified version. 
+
+* Change `bootstrap.css` to `bootstrap.min.css`, if you are ready for production. 
+* Change `bootstrap-theme.css` to `bootstrap-theme.min.css`
+* Change `bootstrap.js` to `bootstrap.min.js`
+
+> Only if you didn't make any changes to bootstrap core files. 
 
 ## Learn Things
 

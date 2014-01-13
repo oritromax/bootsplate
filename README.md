@@ -1,5 +1,5 @@
-# Bootplate 
-#### V 0.0.1
+# Bootplate V 0.0.1
+
 
 ## Why? 
 
@@ -14,9 +14,9 @@ As you already know its a combination of [html5-boilerlate](http://html5boilerpl
 #### Style Element(s)
 
 * [Normalize] (https://github.com/necolas/normalize.css) to keep stuff smooth everywhere. 
-* `bootstrap.css` The core bootstrap Stylesheet
-* `bootstrap-theme.css` Bootstrap theme, comes with bootstrap 3.0.3
-* `main.css` The main Stylesheet for the Site, Comes with html5-boilerplate
+* `bootstrap.css` The core bootstrap Stylesheet.
+* `bootstrap-theme.css` Bootstrap theme, comes with bootstrap 3.0.3.
+* `main.css` The main Stylesheet for the Site, Comes with html5-boilerplate.
 
 #### Javascript Element(s)
 
@@ -28,7 +28,30 @@ As you already know its a combination of [html5-boilerlate](http://html5boilerpl
 
 #### Extra Element(s)
 
-* [`dns-prefetch`] (http://www.chromium.org/developers/design-documents/dns-prefetching) for DNS prefetching
-* [`opengraph`] (https://developers.facebook.com/docs/opengraph/getting-started) Open Graph Protocol 
-* [`twitter-card`] (https://dev.twitter.com/docs/cards) Twitter card
+* [`dns-prefetch`] (http://www.chromium.org/developers/design-documents/dns-prefetching) for DNS prefetching.
+* [`opengraph`] (https://developers.facebook.com/docs/opengraph/getting-started) Open Graph Protocol. 
+* [`twitter-card`] (https://dev.twitter.com/docs/cards) Twitter card.
 * [`Google Analytis`] (https://www.google.com/analytics/) The Great Big Analytical Stat for your site. 
+
+
+## Learn Things
+
+As you reading this, That mean you are pretty familier with HTML, CSS. Probably with bootstrap too. But to keep thing clear, Lets take a look inside the jar. 
+
+## The core of HTML5 Boilerplate
+
+This part of the bootplate came directly from html5-boilerplate. They have well written DOC with is a synonym of "Don't Waste Time". 
+
+* [HTML](https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/doc/html.md) — A guide to the default HTML.
+* [CSS](https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/doc/css.md) — A guide to the default CSS.
+* [JavaScript](https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/doc/js.md) — A guide to the default JavaScript.
+* [crossdomain.xml](https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/doc/crossdomain.md) — An introduction to making use of
+  crossdomain requests.
+
+## The Awesomeness of bootstrap
+
+* [ Getting Started ] (http://getbootstrap.com/getting-started) Introduction To Bootstrap.
+* [ CSS ] (http://getbootstrap.com/css) A Brief description of Bootstrap CSS.
+* [ Components ] (http://getbootstrap.com/components) Bootstraps Component. 
+* [ Javascript ] (http://getbootstrap.com/javascript) Detailed Guide of Bootstrap JS. 
+

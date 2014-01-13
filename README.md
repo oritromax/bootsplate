@@ -36,7 +36,7 @@ As you already know its a combination of [html5-boilerlate](http://html5boilerpl
 
 ## Learn Things
 
-As you reading this, That mean you are pretty familier with HTML, CSS. Probably with bootstrap too. But to keep thing clear, Lets take a look inside the jar. 
+As you reading this, That mean you are pretty familier with HTML, CSS. Probably with bootstrap too. But to keep things clear, Lets take a look inside the jar. 
 
 ## The core of HTML5 Boilerplate
 
@@ -55,3 +55,16 @@ This part of the bootplate came directly from html5-boilerplate. They have well 
 * [ Components ] (http://getbootstrap.com/components) Bootstraps Component. 
 * [ Javascript ] (http://getbootstrap.com/javascript) Detailed Guide of Bootstrap JS. 
 
+## Contributing 
+
+Have something new to add? Have some new idea? Or Find any bug? Any Mistakes? Fork, Work on it and send me a pull request. If you can make it better, You are more then welcome. 
+
+## Copyright 
+
+* html5-boilerplate belongs to [http://html5boilerplate.com/](http://html5boilerplate.com/)
+* Bootstrap is a Copyrighted Twitter product
+* Bootplate is just a combination of Two already Developed product, Maintained by [ Oritro Ahmed ] (http://ioritro.com)
+
+## License 
+
+Bootplace licensed under [the MIT license](license)  

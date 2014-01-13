@@ -1,5 +1,8 @@
-# Bootsplate V 0.0.1
+# Bootsplate V 0.0.2
 
+### V 0.0.2 ( January 13, 2013 ) 
+
+*Html5Shim and Media Query Fallback for IE9 Added [ Thanks to Sabuj Kundu ] 
 
 ## Why? 
 

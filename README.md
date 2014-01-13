@@ -1,4 +1,4 @@
-# Bootplate V 0.0.1
+# Bootsplate V 0.0.1
 
 
 ## Why? 
@@ -41,7 +41,7 @@ As its for Development, All the Stylesheet and Scripts of Bootstrap are included
 * Change `bootstrap-theme.css` to `bootstrap-theme.min.css`
 * Change `bootstrap.js` to `bootstrap.min.js`
 
-> Only if you didn't make any changes to bootstrap core files. 
+> Only if you didn't make any change(s) to bootstrap core files. 
 
 ## Learn Things
 
@@ -72,8 +72,8 @@ Have something new to add? Have some new idea? Or Find any bug? Any Mistakes? Fo
 
 * html5-boilerplate belongs to [http://html5boilerplate.com/](http://html5boilerplate.com/)
 * Bootstrap is a Copyrighted Twitter product
-* Bootplate is just a combination of Two already Developed product, Maintained by [ Oritro Ahmed ] (http://ioritro.com)
+* Bootsplate is just a combination of Two already Developed product, Maintained by [ Oritro Ahmed ] (http://ioritro.com)
 
 ## License 
 
-Bootplace licensed under [the MIT license](license)  
+Bootsplace licensed under [the MIT license](license)  

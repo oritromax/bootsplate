@@ -9,7 +9,11 @@
 * A Slightly modified browser compatibility package from html5-boilerplate.
 * And everything from bootstrap ( Production and Development Version ).
 
-Get a Cup of Coffee and start coding. 
+Get a Cup of Coffee and start coding.
+
+`git clone https://github.com/oritromax/bootsplate.git`
+
+Put in the code in Terminal/Commandline and you are good to go. 
 
 ### V 0.0.3 ( January 1, 2015 )
 

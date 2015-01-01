@@ -1,6 +1,17 @@
 # Bootsplate V 0.0.3
 
-### V 0.0.2 ( January 1, 2015 )
+### Bootsplate is a packaged bootstrap boilerplate, ready to fire any time you want. Just clone it / download it and you are ready to make a awesome bootstrap webpage / application without worrying.
+
+* Forget about Putting together jquery
+* index.html has a standard HTML5 layout, start coding.
+* A nice 404 page has been included.
+* Don't worry about css map, already there.
+* A Slightly modified browser compatibility package from html5-boilerplate.
+* And everything from bootstrap ( Production and Development Version ).
+
+Get a Cup of Coffee and start coding. 
+
+### V 0.0.3 ( January 1, 2015 )
 
 * Latest Bootstrap ( v3.3.1 ) Stylesheet and JavaScript Added
 * CSS Map added

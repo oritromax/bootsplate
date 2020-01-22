@@ -1,8 +1,8 @@
-#Bootsplate V 0.0.4
+# Bootsplate V 0.0.4
 
-###Back after 5 Years
+### Back after 5 Years
 
-###Bootsplate is a Standard HTML Boilerplate that includes Bootstrap v4.4.1 and Everything else you need to start your next Project. It was carefully crafted with everything you need to get your Project up and ready without worry. Just clone / download the repo and start working. 
+### Bootsplate is a Standard HTML Boilerplate that includes Bootstrap v4.4.1 and Everything else you need to start your next Project. It was carefully crafted with everything you need to get your Project up and ready without worry. Just clone / download the repo and start working. 
 
 
 # Bootsplate V 0.0.3

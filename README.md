@@ -1,4 +1,4 @@
-# Bootsplate V 0.0.4
+# Bootsplate V 0.0.4 ( January 23, 2020)
 
 ### Back after 5 Years
 
@@ -19,7 +19,7 @@ Or if you prefer to download, that option is also there.
 
 ## Why?
 
-This started as a personl need. I wanted to get up and running with a project and i needed to either bower ( remember bower? ) everything or copy paste from other projects. Thats just a few extra step i am trying to avoid. So i put together a small package with everything you may need to jump start your project. Keep cloning for future project and you have somewhat of a ready base to start from. 
+This started as a personal need. I wanted to get up and running with a project and i needed to either bower ( remember bower? ) everything or copy paste from other projects. Thats just a few extra step i am trying to avoid. So i put together a small package with everything you may need to jump start your project. Keep cloning for future project and you have somewhat of a ready base to start from. 
 
 Nuff Said, lets get to work.
 

@@ -1,78 +1,69 @@
-<!DOCTYPE html>
+<!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- Fallback For IE 9 [ Media Query and html5 Shim] -->
-                <!--[if lt IE 9]>
-                        <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>                        
-                
-                        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-                <![endif]-->
 
-        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-        <!-- Bootstrap 3.0.3 added, change to bootstrap.min.css and bootstrap-theme.min.css if you need the minified version -->
-        <link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="css/bootstrap-theme.css">
-        <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        <!-- DNS Prefetch for Google Hosted libraries, Remove if you don't need that. -->
-        <link rel="dns-prefetch" href="//ajax.googleapis.com">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <!-- Open Graph Integration ( Remove if not needed) -->
-        <meta property="og:title" content="">
-        <meta property="og:description" content="">
-        <meta property="og:image" content="">
-        <!-- Open Graph Integration End -->
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
 
-        <!-- Twitter Card Integration ( Remove if not needed) -->
-        <meta name="twitter:card" content="summary">
-        <meta name="twitter:site" content="@site_account">
-        <meta name="twitter:creator" content="@individual_account">
-        <meta name="twitter:url" content="http://www.example.com/path/to/page.html">
-        <meta name="twitter:title" content="">
-        <meta name="twitter:description" content="">
-        <meta name="twitter:image" content="http://www.example.com/path/to/image.jpg">
-        <!-- Twitter Card Integration End -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <!-- Open Graph Integration ( Remove if not needed) -->
+  <meta property="og:title" content="">
+  <meta property="og:description" content="">
+  <meta property="og:image" content="">
+  <!-- Open Graph Integration End -->
+
+  <!-- Twitter Card Integration ( Remove if not needed) -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@site_account">
+  <meta name="twitter:creator" content="@individual_account">
+  <meta name="twitter:url" content="http://www.example.com/path/to/page.html">
+  <meta name="twitter:title" content="">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:image" content="http://www.example.com/path/to/image.jpg">
+  <!-- Twitter Card Integration End -->
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+  <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+  <!-- Add your site or application content here -->
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <h1 class="display-4">Welcome To Bootsplate</h1>
+      <p class="lead">A Boostrap (v4.4.1) Boilerplate for fast Development. [ <a href="https://github.com/oritromax/bootsplate" target="_blank">Github</a> ]</p>
+    </div>
+  </div>
 
 
-    </head>
-    <body>
-        <!--[if lt IE 7]>
-            <p class="browsehappy">We are Extreamly sorry, But the browser you are using is probably from when civilization started. Which is way behind to view this site properly. Please update to a modern browser, At least a real browser. </p>
-        <![endif]-->
 
-        <!-- Add your site or application content here -->
-      <div class="container">
+  <script src="js/vendor/modernizr-3.8.0.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
+  <script src="js/vendor/bootstrap.bundle.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
 
-        <div class="jumbotron">
-        	<h1>Hello, world!</h1>
-        	<p>Welcome to bootplate. Start Doing the Awesomeness right from here</p>
-        	<p><a class="btn btn-primary btn-lg" role="button" href="https://github.com/oritromax/bootsplate"><span class="glyphicon glyphicon-book"></span> Understand bootplate</a></p>
-        </div>
+  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+  <script>
+    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set','transport','beacon'); ga('send', 'pageview')
+  </script>
+  <script src="https://www.google-analytics.com/analytics.js" async></script>
+</body>
 
-      </div>
-
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-        <script src="js/bootstrap.js"></script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
-
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-        <script>
-            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-            e.src='//www.google-analytics.com/analytics.js';
-            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-            ga('create','UA-XXXXX-X');ga('send','pageview');
-        </script>
-    </body>
 </html>
